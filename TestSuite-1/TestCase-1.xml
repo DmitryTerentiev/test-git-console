@@ -15,7 +15,7 @@
           <connstr>jdbc:mysql://127.0.0.1:3306/world?user=root&amp;password=PASS_VALUE&amp;useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC</connstr>
           <pass>n77_streamas</pass>
           <Connection/>
-          <query>Select city.Name as ${#TestSuite#query}
+          <query>Select city.Name as city_Name
 From city</query>
           <fetchSize/>
           <stored-procedure>false</stored-procedure>
