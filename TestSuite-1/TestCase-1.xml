@@ -113,7 +113,12 @@ From city</query>
       <discardResults>true</discardResults>
     </con:config>
   </con:testStep>
-  <con:properties/>
+  <con:properties>
+    <con:property>
+      <con:name>test</con:name>
+      <con:value>test</con:value>
+    </con:property>
+  </con:properties>
   <con:reportParameters/>
   <con:breakPoints>
     <con:testStepId>33aa7fc4-d9f3-4725-aaf3-9242aea98f42</con:testStepId>
