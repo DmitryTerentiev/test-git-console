@@ -116,7 +116,7 @@ From city</query>
   <con:properties>
     <con:property>
       <con:name>test</con:name>
-      <con:value>test</con:value>
+      <con:value>test2</con:value>
     </con:property>
   </con:properties>
   <con:reportParameters/>
