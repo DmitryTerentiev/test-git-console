@@ -7,12 +7,8 @@
   <con:requirements/>
   <con:properties>
     <con:property>
-      <con:name>forked</con:name>
-      <con:value>111</con:value>
-    </con:property>
-    <con:property>
-      <con:name>forked 2</con:name>
-      <con:value>222</con:value>
+      <con:name>update test</con:name>
+      <con:value>111111</con:value>
     </con:property>
   </con:properties>
   <con:wssContainer/>
