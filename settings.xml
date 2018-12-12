@@ -7,8 +7,8 @@
   <con:requirements/>
   <con:properties>
     <con:property>
-      <con:name>update test</con:name>
-      <con:value>111111</con:value>
+      <con:name>diff test</con:name>
+      <con:value>111111wsr</con:value>
     </con:property>
   </con:properties>
   <con:wssContainer/>
