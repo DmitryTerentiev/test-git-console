@@ -1,2 +1,6 @@
 http%3A%2F%2Fwww.datasciencetoolkit.org\json.xml
 TestSuite-1\TestCase-1.xml
+Single-Request-Test-Cases\LoadUI-Single-Request-Test-Case-1.xml
+Baseline-Load-Test.xml
+Stress-Load-Test.xml
+Spike-Load-Test.xml
