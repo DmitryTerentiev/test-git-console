@@ -112,7 +112,7 @@
         <con1:properties>
           <con1:property propagates="true" key="ModelItem.description" type="java.lang.String"/>
           <con1:property propagates="true" key="stateProperty" type="java.lang.Boolean">true</con1:property>
-          <con1:property propagates="true" key="limitVU" type="java.lang.Long">250</con1:property>
+          <con1:property propagates="true" key="limitVU" type="java.lang.Long">9223372036854775807</con1:property>
           <con1:property propagates="true" key="baseVU" type="java.lang.Long">10</con1:property>
           <con1:property propagates="true" key="burstVU" type="java.lang.Long">10</con1:property>
           <con1:property propagates="true" key="baseDuration" type="java.lang.Long">180</con1:property>
