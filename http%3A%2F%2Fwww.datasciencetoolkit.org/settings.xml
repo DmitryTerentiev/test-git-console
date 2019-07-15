@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="e776e496-a216-424d-952a-f4fc24335779" wadlVersion="http://wadl.dev.java.net/2009/02" name="http://www.datasciencetoolkit.org" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="e776e496-a216-424d-952a-f4fc24335779fileName">http%3A%2F%2Fwww.datasciencetoolkit.org</con:setting>
+  </con:settings>
+  <con:definitionCache type="TEXT" rootPart=""/>
+  <con:endpoints>
+    <con:endpoint>http://www.datasciencetoolkit.org</con:endpoint>
+  </con:endpoints>
+</con:interface>
